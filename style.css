@@ -16,6 +16,7 @@ body {
   line-height: 140%;
   background-color: #000000;
   color: #ffffff;
+  margin: 0;
   /*background-image: url('contour-pattern.svg');*/
   /*background-position: right center;*/
   /*background-size: cover;*/
